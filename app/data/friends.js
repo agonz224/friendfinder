@@ -1,18 +1,66 @@
 var tableArray = [
   {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"squirrel",
+  "photo":"https://s-media-cache-ak0.pinimg.com/736x/57/2b/2f/572b2fbe8e633dcd4d45394d6926ab31.jpg",
   "scores":[
-      5,
-      1,
-      4,
-      4,
-      5,
-      1,
       2,
+      2,
+      1,
+      4,
+      5,
+      1,
+      5,
       5,
       4,
       1
+      ]
+    }
+     {
+  "name":"monkey",
+  "photo":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKRBv5TUP4WZom-bjJc4N9r0ECJiT8j8gb74vH3hTukzYxDEeRMPOcqg",
+  "scores":[
+      2,
+      1,
+      5,
+      4,
+      4,
+      1,
+      5,
+      5,
+      4,
+      5
+      ]
+    }
+     {
+  "name":"giraffe",
+  "photo":"http://animalinyou.com/images/animals/giraffe/giraffe-2.jpg",
+  "scores":[
+      5,
+      1,
+      3,
+      4,
+      2,
+      1,
+      2,
+      4,
+      4,
+      1
+      ]
+    }
+     {
+  "name":"rabbit",
+  "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JumpingRabbit.JPG/220px-JumpingRabbit.JPG",
+  "scores":[
+      3,
+      2,
+      4,
+      4,
+      3,
+      1,
+      1,
+      2,
+      4,
+      2
       ]
     }
   ];
