@@ -14,7 +14,7 @@ var tableArray = [
       4,
       1
       ]
-    }
+    },
      {
   "name":"monkey",
   "photo":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKRBv5TUP4WZom-bjJc4N9r0ECJiT8j8gb74vH3hTukzYxDEeRMPOcqg",
@@ -30,7 +30,7 @@ var tableArray = [
       4,
       5
       ]
-    }
+    },
      {
   "name":"giraffe",
   "photo":"http://animalinyou.com/images/animals/giraffe/giraffe-2.jpg",
@@ -46,7 +46,7 @@ var tableArray = [
       4,
       1
       ]
-    }
+    },
      {
   "name":"rabbit",
   "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/JumpingRabbit.JPG/220px-JumpingRabbit.JPG",
